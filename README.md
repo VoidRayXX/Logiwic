@@ -1,2 +1,2 @@
 # Logiwic
-programa que analiza secuencias lógicas
+Programa que analiza secuencias lógicas
